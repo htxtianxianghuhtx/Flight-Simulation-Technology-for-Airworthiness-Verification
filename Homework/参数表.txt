@@ -1,0 +1,13 @@
+CL_Basic                         clb_2_0_7
+CD_Basic                        cdaab_3_0_5
+CD_M_flap_up               cdmal_3_0_8
+CD_M_flap_down          cdmah_3_0_9
+CY_beta                          cybeta_7_0_5_1
+Cm_Basic                        cmaab_4_0_8and9
+Cm_ele_in                       cmaeie_4_0_21
+Cm_ele_out                    cmaeoe_4_0_22
+Cl_beta_low                   crs_5_0_7
+Cl_ail_in                          cria_5_0_23
+Cn_beta                          cnbeta_6_0_6_1
+Cn_rud_up                     cnrudue_6_0_20
+Cn_rud_low                    cnrudle_6_0_21
